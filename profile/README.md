@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/63449913/132382559-a72eb4d4-ec95-4947-9258-c862c8a9014e.gif" width="120px" alt="pc">
+<img src="https://user-images.githubusercontent.com/63449913/132382559-a72eb4d4-ec95-4947-9258-c862c8a9014e.gif" width="150px" alt="pc">
 
 - 👀 Developing software applications
 - 🔭 Programming Competition and IT Talk
@@ -15,6 +15,3 @@
 
 #### Profile Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=club-innovation.club-innovation)
-
-#### Github Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=club-innovation&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
